@@ -1,0 +1,12 @@
+1. How is the world wide web different than the internet?
+The internet (being a network of networks) is the infrastructure and the World Wide Web (collection of information) is a service on top of that. 
+2. Briefly describe how the internet works. 
+Each computer has an IP address that is used to communicate with other computers. It makes them be able to find each other. Each computer is connected to a server and with an internet connection, the server is connected to the internet. 
+3. What is a directory, and what is its relationship to files? 
+A directory is a folder that contains all the files that is within a website. 
+4. How will VCS benefit you?
+It tracks the changes you make, it can revert back to what your previous version was, and makes sharing and collaboration easier. 
+5. Take a screenshot anytime while working on your homework. 
+6. That is your favorite kind of art?
+I like watercolor paintings. 
+7. Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory. 
