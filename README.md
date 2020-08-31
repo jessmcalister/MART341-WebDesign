@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Jessica McAlister's MART341-WebDesign
 Introduction to Repository for Website Design Homework 2 
