@@ -1,0 +1,26 @@
+1. Provide three websites that you enjoy visiting.
+  -  [She Reads Truth](https://shereadstruth.com)
+  -  [Pinterest](https://pinterest.com)
+  - [Zola](https://zola.com)
+
+
+2. What is the three relationships between an IP address and the DNS?
+  - The DNS will tell the IP address the domain name of the correct website.
+
+
+3. What is a cookie?
+  - Cookies are used to store data on your computer so that the website can remember who you are.
+
+
+4. List the three essential parts of a URL.
+  - Protocol (http)
+  - Domain Name (.com name)
+  - Path (directories)
+
+
+5. In your README.md, use Markdown and add the title "Assignment 3" with a heading 1. Underneath, add your name as a heading 2.
+
+6. Add a list of 3 things you've learned so far. **Also Stated in README**
+  - I enjoy website development and want to learn how to make this into a career.
+  - How to link a website into my code.
+  - The subdirectories are making more sense because I'm seeing it in my Project folders.
