@@ -1,10 +1,8 @@
 /*the background, h1, h2, & p*/
 body {
   background-color: rgb(200,200,200);}
-h1 {
-  background-color: DarkCyan;}
-  .text-box {
-  background-color: rgba(0,0,0,0.5);
+.h1 {
+  background-color: DarkCyan, 0.5;}
 }
 h2{
   background-color: #ee3e80;}
