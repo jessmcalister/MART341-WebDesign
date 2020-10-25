@@ -3,14 +3,11 @@ body {
   background-color: rgb(200,200,200);}
 h1 {
   background-color: DarkCyan;}
+  .text-box {
+  background-color: rgba(0,0,0,0.5);
+}
 h2{
   background-color: #ee3e80;}
 p {
   background-color: white;}
 /*the opacity*/
-  <div class="box-1">
-        "box 1" (red)
-        <div class="box-1 inner">
-           "box 1, inner" (blue)
-        </div>
-     </div>
