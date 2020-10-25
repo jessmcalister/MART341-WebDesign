@@ -1,11 +1,15 @@
 /*the background, h1, h2, & p*/
 body {
   background-color: rgb(200,200,200);}
-.h1 {
-  background-color: DarkCyan, 0.5;}
+h1 {
+  background-color: DarkCyan;}
 }
 h2{
   background-color: #ee3e80;}
 p {
   background-color: white;}
 /*the opacity*/
+.box-1 {
+   background-color: rgb(255,0,0,0.5);
+   height: 250px;
+}
