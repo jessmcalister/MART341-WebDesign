@@ -5,10 +5,12 @@
 /* Actual Excerpt */
 .p2 {
    font-family:'Arial', sans-serif;
+   font-size: 16px;
 }
 /* Link to website */
 .p3 {
    font-family: 'Courier New', monospace;
+   font-size: 20px;
 }
 /*the background, h1, h2, & p*/
 body {
