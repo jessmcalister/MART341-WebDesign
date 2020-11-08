@@ -8,10 +8,15 @@ body {
 .title{
   color: #c9d8c5;
   position: relative;
+  text-align: center;
+  font-size: 2.75em;
+  font-family: monospace;
 }
 .who{
   color: ##5a5c51;
   text-align: center;
+  font-size: 2em;
+  font-family: monospace;
 }
 .who-statement{
   width: 75%;
@@ -22,6 +27,12 @@ body {
    background-color: #5a5c51;
    color: #fff;
    font-size: 1.25em;
+   font-family: monospace;
+}
+.what{
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
 }
 .what-statement{
   width: 75%;
@@ -32,6 +43,12 @@ body {
    background-color: #97743a;
    color: #fff;
    font-size: 1.25em;
+   font-family: monospace;
+}
+.where{
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
 }
 .where-statement{
   width: 75%;
@@ -42,6 +59,12 @@ body {
    background-color: #935347;
    color: #fff;
    font-size: 1.25em;
+   font-family: monospace;
+}
+.when{
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
 }
 .when-statement{
   width: 75%;
@@ -52,6 +75,12 @@ body {
    background-color: #ba9077;
    color: #fff;
    font-size: 1.25em;
+   font-family: monospace;
+}
+.why{
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
 }
 .why-statement{
   width: 75%;
@@ -62,4 +91,5 @@ body {
    background-color: #e6cf8b;
    color: #fff;
    font-size: 1.25em;
+   font-family: monospace;
 }
