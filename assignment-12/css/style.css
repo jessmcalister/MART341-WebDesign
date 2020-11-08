@@ -11,6 +11,7 @@ body {
 }
 .who{
   color: ##5a5c51;
+  text-align: center;
 }
 .who-statement{
   width: 75%;
@@ -61,29 +62,4 @@ body {
    background-color: #e6cf8b;
    color: #fff;
    font-size: 1.25em;
-}
-.header {
-    background-color: #a8b6bf;
-    font-family: sans-serif;
-    font-size: 12pt;
-    text-align: center;
-    text-transform: uppercase;
-    margin-bottom: 20px;
-    padding: 0.25em;
-}
-.menu-item {
-    margin: auto;
-    padding: 0.25em;
-    min-width: 75px;
-    font-size: 10pt;
-    color: #3b3a36;
-    background-color: #a8b6bf;
-    line-height: 2.1em;
-}
-.menu-item:hover {
-    background-color: #a8b6bf;
-    color: #3b3a36;
-}
-.display-inline-block {
-    display: inline-block;
 }
