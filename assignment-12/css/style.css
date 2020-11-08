@@ -7,7 +7,7 @@ body {
 }
 .title{
   color: #c9d8c5;
-  position: fixed;
+  position: relative;
 }
 .who{
   color: ##5a5c51;
