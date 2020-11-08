@@ -1,4 +1,6 @@
 body {
-   font-family: Arial;
    background-color: #DDDFD4;
+}
+.title{
+  color: rgb(28, 205, 202);
 }
