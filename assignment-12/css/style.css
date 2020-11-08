@@ -4,6 +4,10 @@ body {
 .title{
   color: #c9d8c5;
 }
+.who{
+  color: ##5a5c51;
+  font-size: 20px;
+}
 .who-statement{
   width: 75%;
    margin: 1em auto;
