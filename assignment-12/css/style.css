@@ -1,9 +1,13 @@
 body {
    background-color: #7d4627;
    font-family: monospace;
+   margin: 0;
+   padding: 0;
+   font-size: 12px;
 }
 .title{
   color: #c9d8c5;
+  position: fixed;
 }
 .who{
   color: ##5a5c51;
