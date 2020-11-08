@@ -10,7 +10,47 @@ body {
    padding: 1em;
    text-align: center;
    border: 10px solid #fff;
-   background-color: #1CCDCA;
+   background-color: #5a5c51;
+   color: #fff;
+   font-size: 1.25em;
+}
+.what-statement{
+  width: 75%;
+   margin: 1em auto;
+   padding: 1em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: #97743a;
+   color: #fff;
+   font-size: 1.25em;
+}
+.where-statement{
+  width: 75%;
+   margin: 1em auto;
+   padding: 1em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: #935347;
+   color: #fff;
+   font-size: 1.25em;
+}
+.when-statement{
+  width: 75%;
+   margin: 1em auto;
+   padding: 1em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: #ba9077;
+   color: #fff;
+   font-size: 1.25em;
+}
+.why-statement{
+  width: 75%;
+   margin: 1em auto;
+   padding: 1em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: #e6cf8b;
    color: #fff;
    font-size: 1.25em;
 }
