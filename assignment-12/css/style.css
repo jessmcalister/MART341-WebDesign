@@ -25,7 +25,6 @@ body {
 .who{
   color: ##5a5c51;
   text-align: center;
-  font-size: 2em;
   font-family: monospace;
 }
 .who-statement{
@@ -41,7 +40,6 @@ body {
 }
 .what{
   text-align: center;
-  font-size: 2em;
   font-family: monospace;
 }
 .what-statement{
@@ -57,7 +55,6 @@ body {
 }
 .where{
   text-align: center;
-  font-size: 2em;
   font-family: monospace;
 }
 .where-statement{
@@ -73,7 +70,6 @@ body {
 }
 .when{
   text-align: center;
-  font-size: 2em;
   font-family: monospace;
 }
 .when-statement{
@@ -89,7 +85,6 @@ body {
 }
 .why{
   text-align: center;
-  font-size: 2em;
   font-family: monospace;
 }
 .why-statement{
