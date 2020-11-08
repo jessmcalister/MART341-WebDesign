@@ -1,14 +1,15 @@
 body {
    background-color: #7d4627;
+   font-family: monospace;
 }
 .title{
   color: #c9d8c5;
+  font-size: 2em;
 }
 .who{
   color: ##5a5c51;
-  font-size: 65px;
 }
-.who-statement{
+p.who-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -18,7 +19,7 @@ body {
    color: #fff;
    font-size: 1.25em;
 }
-.what-statement{
+p.what-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -28,7 +29,7 @@ body {
    color: #fff;
    font-size: 1.25em;
 }
-.where-statement{
+p.where-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -38,7 +39,7 @@ body {
    color: #fff;
    font-size: 1.25em;
 }
-.when-statement{
+p.when-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -48,7 +49,7 @@ body {
    color: #fff;
    font-size: 1.25em;
 }
-.why-statement{
+p.why-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
