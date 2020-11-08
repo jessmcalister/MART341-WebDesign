@@ -8,7 +8,7 @@ body {
 .who{
   color: ##5a5c51;
 }
-p.who-statement{
+.who-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -18,7 +18,7 @@ p.who-statement{
    color: #fff;
    font-size: 1.25em;
 }
-p.what-statement{
+.what-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -28,7 +28,7 @@ p.what-statement{
    color: #fff;
    font-size: 1.25em;
 }
-p.where-statement{
+.where-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -38,7 +38,7 @@ p.where-statement{
    color: #fff;
    font-size: 1.25em;
 }
-p.when-statement{
+.when-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
@@ -48,7 +48,7 @@ p.when-statement{
    color: #fff;
    font-size: 1.25em;
 }
-p.why-statement{
+.why-statement{
   width: 75%;
    margin: 1em auto;
    padding: 1em;
