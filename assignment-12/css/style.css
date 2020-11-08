@@ -1,6 +1,16 @@
 body {
-   background-color: #DDDFD4;
+   background-color: #7d4627;
 }
 .title{
   color: #c9d8c5;
+}
+.who-statement{
+  width: 75%;
+   margin: 1em auto;
+   padding: 1em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: #1CCDCA;
+   color: #fff;
+   font-size: 1.25em;
 }
