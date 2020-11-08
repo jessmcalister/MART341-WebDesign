@@ -12,6 +12,11 @@ body {
   font-size: 2.75em;
   font-family: monospace;
 }
+.sign{
+  margin-bottom: 2em;
+   text-align: center;
+   font-size: 150%;
+}
 .who{
   color: ##5a5c51;
   text-align: center;
