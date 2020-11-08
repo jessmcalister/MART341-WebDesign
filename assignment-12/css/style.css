@@ -11,6 +11,12 @@ body {
   font-size: 2.75em;
   font-family: monospace;
 }
+.float .red-square {
+    float: left;
+}
+.float .float-right {
+    float: right;
+}
 .sign{
   margin-bottom: 2em;
    text-align: center;
