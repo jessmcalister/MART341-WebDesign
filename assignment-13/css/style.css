@@ -1,6 +1,6 @@
 /* Set your header design: */
 header {
-    background-color: #E27D60b;
+    background-color: #26272b;
     font-family: sans-serif;
     font-size: 10pt;
     text-transform: uppercase;
@@ -15,17 +15,17 @@ header {
     margin: 0 0;
     min-width: 8em;
     text-align: center;
-    background-color: #E27D60;
+    background-color: #26272b;
     padding: 0.5em 0;
 }
 
 /* Style the links: */
 .menu-item a {
-    color: #C38D9E;
+    color: #fff;
     text-decoration: none;
 }
 .menu-item:hover {
-    background-color: #C38D9E;
+    background-color: #1CCDCA;
 }
 
 /* Add a dropdown feature: */
