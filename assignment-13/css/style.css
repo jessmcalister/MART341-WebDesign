@@ -73,3 +73,10 @@ body{
   font-size: 2.75em;
   font-family: monospace;
 }
+.introduction{
+  color: #41B3A3;
+  position: relative;
+  text-align: center;
+  font-size: 2 em;
+  font-family: monospace;
+}
