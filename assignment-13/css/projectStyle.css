@@ -68,3 +68,24 @@
   font-size: 2.75em;
   font-family: monospace;
 }
+.projects{
+  color: #41B3A3;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
+}
+.common{
+  color: #8D8741;
+  position: relative;
+  text-align: center;
+  font-size: 1.75em;
+  font-family: monospace;
+}
+.list{
+  color: #8D8741;
+  position: relative;
+  text-align: center;
+  font-size: 1.75em;
+  font-family: monospace;
+}
