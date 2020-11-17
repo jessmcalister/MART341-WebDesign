@@ -10,6 +10,6 @@
   </ul>
 <b><li>Free Response: Please discuss your challenges and how you overcame them.</li></b>
   <ul>
-    <li>When I started adding pages, it was frustrating because I began to lose all the work that I put in.</li>
+    <li>The navigation was difficult. But I figured it out and got them all to link together.</li>
   </ul>
   </ol>
