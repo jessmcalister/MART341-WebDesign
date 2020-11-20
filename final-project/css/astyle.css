@@ -66,20 +66,3 @@ body{
   font-size: 12px;
   background-color: #FBEEC1;
 }
-.welcome{
-  color: #659DBD;
-  position: relative;
-  text-align: center;
-  font-size: 2.75em;
-  font-family: monospace;
-}
-.intro{
-  color: #8D8741;
-  position: relative;
-  text-align: center;
-  font-size: 2em;
-  font-family: monospace;
-}
-.gnp{
-  text-align: center;
-}
