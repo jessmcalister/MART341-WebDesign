@@ -1,0 +1,174 @@
+/* Set your header design: */
+.navigation {
+    background-color: #DAAD86;
+    font-family: monospace;
+    font-size: 14pt;
+    text-transform: uppercase;
+    margin: 0;
+    height: 2.15em;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: #DAAD86;
+    padding: 0.5em 0;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+.menu-item:hover {
+    background-color: #ADADAD;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0.5em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #85DCB;
+    background-color: #ADADAD;
+}
+body{
+  font-family: Verdana, Arial, Tahoma;
+  font-size: 12px;
+  background-color: #FBEEC1;
+}
+.animals{
+  color: #659DBD;
+  position: relative;
+  text-align: center;
+  font-size: 2.75em;
+  font-family: monospace;
+}
+.gnp{
+  color: #8D8741;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
+}
+.expain{
+  color: #BC986A;
+  position: relative;
+  text-align: center;
+  font-size: 1.25em;
+  font-family: monospace;
+}
+.bear{
+  color: #7E685A;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
+.imagebear{
+  text-align: left;
+}
+.grizzly{
+  color: #7E685A;
+  position: relative;
+  text-align: left;
+  font-size: 1.25em;
+  font-family: monospace;
+}
+.elk{
+  color: #C2B9B0;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
+.imageelk{
+  text-align: left;
+}
+.elks{
+  color: #7E685A;
+  position: relative;
+  text-align: left;
+  font-size: 1.25em;
+  font-family: monospace;
+}
+.goat{
+  color: #E3E2DF;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
+.goatimage{
+  text-align: left;
+}
+.mountain{
+  color: #E3E2DF;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
+.lion{
+  color: #FFCB9A;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
+.lionimage{
+  text-align: left;
+}
+.cougar{
+  color: #7E685A;
+  position: relative;
+  text-align: left;
+  font-size: 1.25em;
+  font-family: monospace;
+}
+.deer{
+  color: #D8C3A5;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
+.deerimage{
+  text-align: left;
+}
+.bambi{
+  color: #D8C3A5;
+  position: relative;
+  text-align: left;
+  font-size: 2.25em;
+  font-family: monospace;
+}
