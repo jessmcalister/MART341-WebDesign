@@ -80,7 +80,7 @@ body{
   font-size: 2em;
   font-family: monospace;
 }
-.expain{
+.explain{
   color: #BC986A;
   position: relative;
   text-align: center;
@@ -105,7 +105,7 @@ body{
   font-family: monospace;
 }
 .elk{
-  color: #C2B9B0;
+  color: #7E685A;
   position: relative;
   text-align: left;
   font-size: 2.25em;
@@ -122,7 +122,7 @@ body{
   font-family: monospace;
 }
 .goat{
-  color: #E3E2DF;
+  color: #7E685A;
   position: relative;
   text-align: left;
   font-size: 2.25em;
@@ -132,14 +132,14 @@ body{
   text-align: left;
 }
 .mountain{
-  color: #E3E2DF;
+  color: #7E685A;
   position: relative;
   text-align: left;
-  font-size: 2.25em;
+  font-size: 1.25em;
   font-family: monospace;
 }
 .lion{
-  color: #FFCB9A;
+  color: #7E685A;
   position: relative;
   text-align: left;
   font-size: 2.25em;
@@ -166,9 +166,9 @@ body{
   text-align: left;
 }
 .bambi{
-  color: #D8C3A5;
+  color: #7E685A;
   position: relative;
   text-align: left;
-  font-size: 2.25em;
+  font-size: 1.25em;
   font-family: monospace;
 }
