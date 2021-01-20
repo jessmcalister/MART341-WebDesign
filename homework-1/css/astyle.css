@@ -1,0 +1,96 @@
+/* Set your header design: */
+.navigation {
+    background-color: #DAAD86;
+    font-family: monospace;
+    font-size: 14pt;
+    text-transform: uppercase;
+    margin: 0;
+    height: 2.15em;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: #DAAD86;
+    padding: 0.5em 0;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+.menu-item:hover {
+    background-color: #ADADAD;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0.5em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #85DCB;
+    background-color: #ADADAD;
+}
+body{
+  font-family: Verdana, Arial, Tahoma;
+  font-size: 12px;
+  background-color: #FBEEC1;
+}
+.about{
+  color: #659DBD;
+  position: relative;
+  text-align: center;
+  font-size: 2.75em;
+  font-family: monospace;
+}
+.school{
+  color: #8D8741;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
+}
+.softball{
+  color: #8D8741;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
+}
+.me{
+  color: #8D8741;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+  font-family: monospace;
+}
